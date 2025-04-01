@@ -1,0 +1,1 @@
+snow init devops_hol --template data_project
