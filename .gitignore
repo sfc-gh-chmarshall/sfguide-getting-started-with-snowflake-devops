@@ -1,1 +1,3 @@
 .snowflake/logs
+.snowflake/rsa_key.p8
+.snowflake/rsa_key.pub

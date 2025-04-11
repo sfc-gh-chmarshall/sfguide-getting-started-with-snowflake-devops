@@ -1,0 +1,2 @@
+export SNOWFLAKE_CLI_FEATURES_ENABLE_SNOWFLAKE_PROJECTS=true
+snow init devops_hol --template data_project
